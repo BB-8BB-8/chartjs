@@ -32,8 +32,8 @@
 
 .chartjs-size-monitor-expand > div {
 	position: absolute;
-	width: 1000000px;
-	height: 1000000px;
+	width: 800000px;
+	height: 800000px;
 	left: 0;
 	top: 0;
 }
